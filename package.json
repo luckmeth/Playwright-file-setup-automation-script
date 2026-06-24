@@ -1,0 +1,9 @@
+{
+  "name": "setup-playwright",
+  "version": "1.0.0",
+  "description": "Auto-setup Playwright for any project",
+  "type": "module",
+  "bin": {
+    "setup-playwright": "./index.mjs"
+  }
+}
