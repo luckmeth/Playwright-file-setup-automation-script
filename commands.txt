@@ -1,0 +1,3 @@
+node setup-playwright.js
+npx playwright install   # first time per machine
+npm test
